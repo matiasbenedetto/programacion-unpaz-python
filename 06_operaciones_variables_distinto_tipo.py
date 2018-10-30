@@ -21,6 +21,9 @@ total = precio_unitario * cantidad
 # Mostramos el total en pantala
 print (total)
 
+# Si queremos agregar un mensaje escrito antes del valor tenemos que convertir la variable total, del tipo float, a un string on str()
+print ("El valor total es: " + str( total ) )
+
 
 
 
