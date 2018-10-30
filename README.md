@@ -1,5 +1,5 @@
 # Introducción a Python
-### Ejercicios Básicos de introducción a Python 3
+### Ejemplos básicos de introducción a Python 3
 
 Materia: **Fundamentos de la Programación**
 
