@@ -1,2 +1,10 @@
 # Introducción a Python
-Ejercicios Básicos en Python 3 de la materia Fundamentos de la Programación - Universidad Nacional de José C. Paz 
+### Ejemplos básicos de introducción a Python 3
+
+Materia: **Fundamentos de la Programación**
+
+Universidad Nacional de José C. Paz (UNPAZ)
+
+Docente: Matías Benedetto
+
+matias.bendetto@gmail.com
