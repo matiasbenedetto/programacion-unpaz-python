@@ -31,7 +31,6 @@ else:
     print ("El precio es menor a $100")
 
 
-
 # ESTRUCTURAS CONDICIONALES CON VARIABLES BOOLEANAS (VERDADERO O FALSO)
 estudiante = True
 
@@ -49,8 +48,7 @@ else:
 
 
 # ESTRUCTURAS CONDICIONALES CON STRINGS (CADENAS DE CARACTERES)
- 
-usuario = "Alfonsina"
+ usuario = "Alfonsina"
 
 print ("Ejemplo 6:")
 if usuario == "Alfonsina":
