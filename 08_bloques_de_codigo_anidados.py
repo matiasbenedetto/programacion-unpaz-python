@@ -15,6 +15,7 @@ cliente_frecuente = False
 
 # Verificamos si el cliente es frecuente o no
 if cliente_frecuente:
+    print("Es cliente frecuente")
     # Si el cliente es frecuente verificamos si el precio es mayor a 400 o no
     if precio > 400:
         descuento = 100
@@ -22,6 +23,7 @@ if cliente_frecuente:
         descuento = 50
 # Si no es cliente frecuente
 else:
+    print("No es cliente frecuente")
     descuento = 15
 
 total = precio - descuento
